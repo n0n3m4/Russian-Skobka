@@ -1,2 +1,2 @@
 # Russian-Skobka
-Lisp for **tards by bitards
+Original repo was hidden, go enjoy yourself
